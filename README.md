@@ -1,2 +1,4 @@
 # OIBSIP
-Task1=BMI calculator with Python Tkinter
+Task=Voice Assistant
+Task2=Simple password generator
+Task3=BMI calculator with Python Tkinter
