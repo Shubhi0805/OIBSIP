@@ -1,4 +1,4 @@
 # OIBSIP
+Name-Shubhi Sharma
 Task1=BMI calculator with Python Tkinter
-Task2=Simple password generator
-Task3= Basic Weather App
+Description= I have developed a graphical BMI calculator with a user-friendly interface (GUI) using libraries like Tkinter or PyQt.
